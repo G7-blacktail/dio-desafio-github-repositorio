@@ -1,0 +1,5 @@
+Links importantes:
+
+https://www.markdownguide.org/basic-syntax/
+https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
